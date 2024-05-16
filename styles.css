@@ -1,0 +1,159 @@
+@import url("https://cdn.jsdelivr.net/gh/jgthms/minireset.css@master/minireset.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols:wght@100..900&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    line-height: 1;
+}
+
+:root {
+    background-color: rgba(45, 68, 128, 1);
+    height: 100%; 
+    width: 100%;
+    max-width: 1440px; 
+    min-height: 802px;
+    top: -512px;
+    left: -720px;
+    padding: 150px 0px 149px 0px;
+    gap: 0px;
+    opacity: 0px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    width: 50%;
+    width: 288px;
+    height: 503px;
+    top: 150px;
+    left: 576px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.card>.rectangleBlanc {
+    width: 288px;
+    height: 469px;
+    top: 150px;
+    left: 576px;
+    gap: 0px;
+    border-radius: 27px 27px 27px 27px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 5px 20px 50px 0px rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 50px;
+}
+
+.card>.rectangleBlanc>.basic {
+    width: 98px;
+    height: 36px;
+    top: 185px;
+    left: 671px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Noto Sans Symbols';
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 36px;
+    text-align: left;
+    color: rgba(41, 41, 41, 1);
+    text-transform: uppercase;
+    margin-top: 27px;
+    margin-right: 5px;
+    margin-bottom: 28px;
+    margin-left: 45px;
+}
+
+.alpha {
+    width: 20px;
+    height: 20px;
+    top: 258px;
+    left: 626px;
+    gap: 23px 4px;
+    opacity: 0px;
+
+}
+
+span {
+    max-width: 116px;
+    height: 33px;
+    top: 249px;
+    left: 669px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Noto Sans Symbols';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 32.8px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    text-transform: uppercase;
+    padding-left: 21px;
+}
+
+.two>span {
+    max-width: 120px;
+    height: 33px;
+    top: 287px;
+    left: 669px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Noto Sans Symbols';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 32.8px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    text-transform: uppercase;
+    padding-left: 21px;
+}
+
+.line {
+    width: 188px;
+    height: 0px;
+    top: 461px;
+    left: 626px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(0, 0, 0, 1);
+    margin-top: 27px;
+}
+
+.free>p {
+    width: 97px;
+    height: 36px;
+    top: 469px;
+    left: 671px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Noto Sans Symbols';
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.13em;
+    text-align: left;
+    color: rgba(41, 41, 41, 1);
+    text-transform: uppercase;
+    margin-left: 45px;
+    margin-top: 8px;
+}
+
+.forever>p {
+    width: 94px;
+    height: 36px;
+top: 514px;
+left: 708px;
+gap: 0px;
+opacity: 0px;
+
+}
